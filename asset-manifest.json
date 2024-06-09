@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/myCareApp/static/css/main.2cc6c6ce.css",
+    "main.js": "/myCareApp/static/js/main.198acac7.js",
+    "static/js/453.e3b9293a.chunk.js": "/myCareApp/static/js/453.e3b9293a.chunk.js",
+    "static/media/heart.jpg": "/myCareApp/static/media/heart.87f01d757829b22e90ad.jpg",
+    "static/media/Picture1.jpg": "/myCareApp/static/media/Picture1.e3e0bb4e0b5e9b7d2f59.jpg",
+    "index.html": "/myCareApp/index.html",
+    "main.2cc6c6ce.css.map": "/myCareApp/static/css/main.2cc6c6ce.css.map",
+    "main.198acac7.js.map": "/myCareApp/static/js/main.198acac7.js.map",
+    "453.e3b9293a.chunk.js.map": "/myCareApp/static/js/453.e3b9293a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc6c6ce.css",
+    "static/js/main.198acac7.js"
+  ]
+}
